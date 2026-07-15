@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Deepthii26.png" width="120" alt="Deepthi C J" />
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f8c8dc,35:8b5e6b,70:26374a,100:0f172a&height=185&section=header&text=Deepthi%20C%20J&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=f8c8dc&strokeWidth=1)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1100&color=F8C8DC&center=true&vCenter=true&width=780&lines=code+%2B+curiosity+%2B+clean+design;building+AI-powered+web+experiences;learning+one+project+at+a+time)
