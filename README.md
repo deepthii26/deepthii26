@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=190&section=header&text=Deepthi%20C%20J&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40)
+<img src="https://github.com/Deepthii26.png" width="120" alt="Deepthi C J" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+intelligent+systems;Turning+ideas+into+clean+software;Exploring+AI%2C+ML+and+full-stack+development)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f8c8dc,35:8b5e6b,70:26374a,100:0f172a&height=185&section=header&text=Deepthi%20C%20J&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&stroke=f8c8dc&strokeWidth=1)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1100&color=F8C8DC&center=true&vCenter=true&width=780&lines=code+%2B+curiosity+%2B+clean+design;building+AI-powered+web+experiences;learning+one+project+at+a+time)
 
 **CSBS student passionate about creating practical, user-friendly tech with clean code and thoughtful design.**  
 I enjoy turning ideas into products that are useful, scalable, and easy to use.
