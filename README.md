@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:7c3aed&height=180&section=header&text=Deepthi%20C%20J&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full-Stack%20%7C%20Machine%20Learning&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:2563eb,100:7c3aed&height=190&section=header&text=Deepthi%20C%20J&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=40)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+intelligent+systems;Turning+ideas+into+clean+software;Exploring+AI%2C+ML+and+full-stack+development)
 
@@ -15,21 +15,19 @@ I enjoy turning ideas into products that are useful, scalable, and easy to use.
 
 ## [ WHO AM I ]
 
-```bash
-name     : Deepthi C J
-role     : Student Developer
-focus    : AI, Full-Stack Development, Machine Learning
-college  : St. Joseph Engineering College
-status   : Learning, building, and improving
-```
+| | |
+|---|---|
+| **Name** | Deepthi C J |
+| **Role** | Student Developer |
+| **Focus** | AI, Full-Stack Development, Machine Learning |
+| **College** | St. Joseph Engineering College |
+| **Status** | Learning, building, and improving |
 
 ## [ CURRENTLY WORKING ON ]
 
-```bash
-> AI-powered applications
-> Full-stack web projects
-> Computer vision and automation ideas
-```
+- AI-powered applications
+- Full-stack web projects
+- Computer vision and automation ideas
 
 ## [ TECH STACK ]
 
