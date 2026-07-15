@@ -2,16 +2,16 @@
 
 # Hi there, I'm Deepthi C J
 
-`AI Enthusiast` · `Full-Stack Developer` · `CSBS Student`
+`AI Enthusiast` | `Full-Stack Developer` | `CSBS Student`
 
-Computer Science and Business Systems student from Mangalore, India.  
-I like building clean, useful software with AI and web technologies.
+CSBS student focused on building intelligent, user-friendly software with AI, machine learning, and full-stack development.  
+I enjoy turning ideas into practical products with clean code and thoughtful design.
 
 </div>
 
 ---
 
-## [ WHOAMI ]
+## [ WHO AM I ]
 
 ```bash
 name     : Deepthi C J
@@ -46,8 +46,8 @@ status   : Learning, building, and improving
 
 ## [ CONNECT ]
 
-```bash
-email    : deepthicj205@gmail.com
-linkedin : linkedin.com/in/deepthicj
-github   : github.com/Deepthii26
-```
+<div align="center">
+
+[Email](mailto:deepthicj205@gmail.com) | [LinkedIn](https://linkedin.com/in/deepthicj) | [GitHub](https://github.com/Deepthii26)
+
+</div>
